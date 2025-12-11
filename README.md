@@ -1,7 +1,7 @@
 
-# 🦀 Quantization-as-a-Service (QaaS) – Rust + Candle
+# 🦀 Model cnacer – Rust + Candle
 
-> **Upload → Train → Quantize → Download → Run**  
+
 > Le TinyPNG des modèles d’intelligence artificielle — entièrement en Rust.
 
 Ce projet démontre un **pipeline minimal mais complet** pour :
